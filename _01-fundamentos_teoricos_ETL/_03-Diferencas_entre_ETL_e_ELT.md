@@ -15,8 +15,3 @@ A principal diferença é o momento da transformação dos dados:
 * Limitação de Dados
 * Suporte à Data Warehouse
 * Usabilidade
-
-### Vantagens do ETL
-* 
-* 
-* 
